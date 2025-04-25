@@ -1,4 +1,4 @@
-# Interactive Tier Vergleichsseite
+# Interactive AnimalCompare: Wichpet
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
@@ -7,24 +7,21 @@
 
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
-
 ## Deployment
 
-Your project is live at:
+Project is live at:
 
 **[https://vercel.com/miichiiiis-projects/v0-interactive-tier-vergleichsseite](https://vercel.com/miichiiiis-projects/v0-interactive-tier-vergleichsseite)**
 
-## Build your app
+## 
 
-Continue building your app on:
+Interactive Pet Comparison Site
+A responsive web tool that clearly compares the key needs and costs of six popular pets (dogs, cats, mice, birds, rabbits, and fish). Ideal for anyone who wants to get informed before purchasing.
 
-**[https://v0.dev/chat/projects/2NMX17fFKKk](https://v0.dev/chat/projects/2NMX17fFKKk)**
+Core Features:
 
-## How It Works
+Comparison table with initial and monthly costs, time required, space required, life expectancy, care and training requirements, temperament, suitability, and noise level.
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+Interactive charts: bar chart for costs, pie chart for time distribution.
+
+Filter and sort by any criteria (e.g., lowest cost, lowest maintenance required).
